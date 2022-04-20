@@ -11,3 +11,5 @@ De este archivo tomé solo los accidentes en bicicleta.
 Para un mejor manejo de datos, dividí a la CDMX en celdas de 15x15 y se contabilizaron los accidentes registrados en cada celda.
 
 Los accidentes acumulados se actualiza con la fecha.
+
+![Alt text](https://github.com/FisicoUrbano/CrecimientoViviendasCDMX/blob/main/Crecimiento_inmobiliario.gif)
