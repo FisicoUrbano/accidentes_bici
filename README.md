@@ -12,4 +12,4 @@ Para un mejor manejo de datos, dividí a la CDMX en celdas de 15x15 y se contabi
 
 Los accidentes acumulados se actualiza con la fecha.
 
-![Alt text](https://github.com/FisicoUrbano/CrecimientoViviendasCDMX/blob/main/Crecimiento_inmobiliario.gif)
+![Alt text](https://github.com/FisicoUrbano/accidentes_bici/blob/main/Bici_Viales_3.gif)
